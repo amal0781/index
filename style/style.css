@@ -1,1 +1,177 @@
+body{
+    background-color: white;
+}
+.a{
+    position: absolute;
+    top: 0%;
+    left: 8%;
+    width: 80%;
+}
+.a1{
+position: absolute;
+width: 79.5%;
+height: 600px;
+box-shadow:   0px 0px 1px rgb(179, 178, 178);
+top: 21.4%;
+left: 8%;
+border: none;
+
+}
+.a2{
+    background-color: rgb(104, 142, 246);
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+}
+.a3{
+    position: absolute;
+    top: 30%;
+    left: 2%;
+}
+.a5{
+    width: 130px;
+    height: 35px;
+    background-color: rgb(255, 99, 26);
+    position: absolute;
+    top: 200px;
+    left: 120px;
+    border-radius: 4px;
+    text-align: center;
+}
+.a6{
+    width: 130px;
+    height: 35px;
+    background-color: rgb(176, 176, 176);
+    position: absolute;
+    top: 200px;
+    left: 270px;
+    border-radius: 4px;
+}
+.a7{
+    width: 130px;
+    height: 35px;
+    background-color: rgba(176,176,176);
+    position: absolute;
+    top: 200px;
+    left: 420px;
+    border-radius: 4px; 
+}
+.a8{
+    width: 130px;
+    height: 35px;
+    background-color: rgba(176,176,176);
+    position: absolute;
+    top: 200px;
+    left: 570px;
+    border-radius: 4px; 
+}
+.a9{
+    width: 130px;
+    height: 35px;
+    background-color: rgba(176,176,176);
+    position: absolute;
+    top: 200px;
+    left: 570px;
+    border-radius: 4px; 
+}
+.a10{
+    width: 130px;
+    height: 35px;
+    background-color: rgba(176,176,176);
+    position: absolute;
+    top: 200px;
+    left: 720px;
+    border-radius: 4px; 
+}
+.a11{
+    width: 130px;
+    height: 35px;
+    background-color: rgba(176,176,176);
+    position: absolute;
+    top: 200px;
+    left: 870px;
+    border-radius: 4px; 
+
+}
+.a12{
+    width: 130px;
+    height: 35px;
+    background-color: rgba(176,176,176);
+    position: absolute;
+    top: 200px;
+    left: 1020px;
+    border-radius: 4px; 
+}
+@media(max-width:412px){
+    .a1{
+        position: absolute;
+        top: 42px;
+        width: 330px;
+        height: 700px;
+    }
+    .a2{
+        display: none;
+    }
+    .a6{
+        position: absolute;
+        top: 170px;
+        left: 40px;
+        width: 240px;
+
+    }
+    .a7{
+        position: absolute;
+        top: 220px;
+        left: 40px;
+        width: 240px;
+    }
+    .a8{
+        position: absolute;
+        top: 270px;
+        left: 40px;
+        width: 240px;
+    }
+    .a9{
+        position: absolute;
+        top: 320px;
+        left: 40px;
+        width: 240px;
+    }
+    .a10{
+        position: absolute;
+        top: 370px;
+        left: 40px;
+        width: 240px;
+    }
+    .a11{
+        position: absolute;
+        top: 420px;
+        left: 40px;
+        width: 240px;
+    }
+    .a12{
+        position: absolute;
+        top: 470px;
+        left: 40px;
+        width: 240px;
+    }
+    .a5{
+        position: absolute;
+        top: 120px;
+        left: 40px;
+        width: 240px;
+    }
+    .text{
+        top:7px;
+        position: absolute;
+        left:50px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 14px;
+        
+    }
+
+}
 
